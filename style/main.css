@@ -100,3 +100,8 @@ header nav a:hover{
 .carrosel-movies{
     margin-top: 5px;
 }
+.button a{
+    text-decoration: none ;
+    color: #AAA;
+    margin-right: 10px
+}
